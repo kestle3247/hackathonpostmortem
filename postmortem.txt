@@ -1,0 +1,22 @@
+Project: Hackathon Health app
+
+- What things went well on this project?
+There we three major things that went well on this project:
+1. Teamwork when we were all working on the same computer compared to separate machines.
+2. Looking up different ways too tackle the problem and figuring out which one will be the most effective.
+3. Being able to show and grasp key concepts about what others were implementing into the project
+
+- What was the single most frustrating part of this project?
+I believe the single most frustrating part of this project was getting our progress bar to update with the data
+
+- What would you have done differently to avoid this conflict?
+To help tackle this situation I would not have tried to recreate the progress bar from scratch and instead try to just use the components given
+
+- Were the goals of the project clear to you?
+The goals of the project were clear considering the small criteria that was given se "Health app"
+
+- How complete do you think the planning was before the actual commencement of work?  What could have been improved?
+I believe the initial planning was very clear and we took at least 80% of the planning components into play. I'm not sure if there was much we could improve considering how much we mapped and planned out or project via the whiteboard
+
+- Was there sufficient time for working on this project?  How could this be improved?
+I believe there was plenty of time to finish this project considering exactly what our group wanted to accomplish, we even had some free time at the end because we we're really happy with how it came out in the end.
